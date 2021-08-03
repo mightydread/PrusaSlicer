@@ -1,2 +1,2 @@
-snapshots/
-cache/
+snapshots/*
+cache/*
